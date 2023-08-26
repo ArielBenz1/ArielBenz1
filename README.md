@@ -6,7 +6,7 @@ My name is Ariel, I'm 23 years old and I'm constantly looking for new ways to im
 
 Technologies that I use
 
-Front-end  
+### Front-end  
  
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" /></a>
@@ -16,10 +16,13 @@ Front-end
 </div>
 
 ### Back-end   
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="70" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="70" /></a>
+</div>
+
 
 How to reach me: 
 
