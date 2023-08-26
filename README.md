@@ -1,4 +1,4 @@
-<h1 align="center">Hola , soy Ariel Benitez 👋</h1>
+<h1 align="center">Hi , I'm Ariel Benitez 👋</h1>
 
 ## Who am i? 
 
