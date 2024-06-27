@@ -27,7 +27,7 @@ Tecnologías que uso
 ## How to reach me: 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/arielbenitez49916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arielbenitez49916 " height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arielbenitez1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arielbenitez49916 " height="30" width="40" /></a>
 </p>
 
 ## Mail: **ariex1040p@gmail.com**
