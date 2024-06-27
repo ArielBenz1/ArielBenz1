@@ -1,10 +1,10 @@
-<h1 align="center">Hi , I'm Ariel Benitez 👋</h1>
+<h1 align="center">Hola , soy Ariel Benitez 👋</h1>
 
-## Who am i? 
+## ¿Quién soy? 
 
-My name is Ariel, I'm 23 years old and I'm constantly looking for new ways to improve my skills and keep learning more about programming.
+Me llamo Ariel, tengo 24 años y soy un fullstack developer con formacion en ingenieria en sistemas de informacion, estoy constantemente buscando nuevas formas de mejorar mis habilidades y seguir aprendiendo más sobre programación.
 
-Technologies that I use
+Tecnologías que uso
 
 ### Front-end  
  
